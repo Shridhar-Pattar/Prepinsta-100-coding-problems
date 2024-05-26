@@ -1,9 +1,5 @@
 package Highest_common_fact;
 
-
-
-
-
 class Main
 {
   public static void main (String[]args)
